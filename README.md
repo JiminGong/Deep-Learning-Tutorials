@@ -5,3 +5,5 @@
    
    ㄴ Hugging Face API `Trainer`  
    ㄴ Pytorch native training
+
+- Pytorch/Dataloader_example : collate_fn 
